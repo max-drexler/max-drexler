@@ -4,8 +4,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-drexler&show_icons=true&locale=en&layout=compact" alt="max-drexler" /></p>
 
-<br>
-
 <h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/max-drexler/">
