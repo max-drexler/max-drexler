@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 
-<h3 align="center">Student programmer at the <a href="https://www.ssec.wisc.edu/">SSEC</a></h3>
+<h3 align="center">Research Intern at the <a href="https://www.ssec.wisc.edu/">SSEC</a></h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-drexler&show_icons=true&locale=en&layout=compact" alt="max-drexler" /></p>
 
